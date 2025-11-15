@@ -1,0 +1,26 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# surveyflow
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+`surveyflow` helps users infer the likely skip logic of a survey
+instrument, based solely on its data.
+
+## Installation
+
+You can install the development version of surveyflow from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("jjmoncus/surveyflow")
+```
+
+## Usage
+
+See forthcoming vignettes, or email J.J. Moncus at
+<jjmoncus706@gmail.com> with questions.
